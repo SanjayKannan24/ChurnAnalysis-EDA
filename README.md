@@ -20,8 +20,6 @@ Key Features:
 - Utilization of data visualization to communicate findings effectively.
 - Machine learning models for predictive churn analysis.
 - Recommendations and strategies for reducing churn rates.
-
-Great, here are the prerequisites for your "Customer Churn Analysis" project:
 ----------------------------------------------------------------------------------------------------------------------
 
 # Prerequisites
