@@ -1,1 +1,3 @@
-# ChurnAnalysis-EDA
+# Project Name
+  ### Customer Churn Analysis
+
