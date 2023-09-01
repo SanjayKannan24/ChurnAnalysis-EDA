@@ -1,8 +1,9 @@
 # Project Name
 
 Customer Churn Analysis
+----------------------------------------------------------------------------------------------------------------------
 
-### Project Description
+# Project Description
 
 "Customer Churn Analysis" is a data-driven project designed to help businesses understand and address customer churn, a critical challenge in subscription-based services and customer-centric industries. This project utilizes data analysis and visualization techniques to uncover insights into customer behavior, identify churn patterns, and provide actionable recommendations for reducing churn rates.
 
@@ -21,8 +22,9 @@ Key Features:
 - Recommendations and strategies for reducing churn rates.
 
 Great, here are the prerequisites for your "Customer Churn Analysis" project:
+----------------------------------------------------------------------------------------------------------------------
 
-### Prerequisites
+# Prerequisites
 
 1. **Python:** Make sure you have Python installed on your system. You can download Python from the official website (https://www.python.org/downloads/) or use a Python distribution like Anaconda (https://www.anaconda.com/), which includes many useful packages.
 
@@ -38,8 +40,9 @@ Great, here are the prerequisites for your "Customer Churn Analysis" project:
 3. **Data:** Obtain the dataset or data source you intend to analyze for customer churn. This data should be in a format that can be loaded into a Pandas DataFrame (e.g., CSV, Excel, or a database).
 
 With these prerequisites in place, you'll be ready to use the "Customer Churn Analysis" project effectively.
+----------------------------------------------------------------------------------------------------------------------
 
-### Features
+# Features
 
 - **Data Exploration:** "Customer Churn Analysis" provides comprehensive data exploration capabilities. It allows you to gain insights into your customer data by examining descriptive statistics, distributions, and visualizations of various attributes.
 
@@ -54,7 +57,8 @@ With these prerequisites in place, you'll be ready to use the "Customer Churn An
 - **Insights and Recommendations:** Ultimately, the project is designed to provide valuable insights into your customer churn data. You can uncover patterns, correlations, and potential factors contributing to churn. These insights can lead to data-driven recommendations and strategies for reducing churn rates and improving customer retention.
 
 By leveraging these features, "Customer Churn Analysis" empowers businesses to explore their customer data, identify actionable insights, and make data-informed decisions to enhance customer retention strategies.
+----------------------------------------------------------------------------------------------------------------------
 
-### Contact
+# Contact
 
 - **Sanjay Kannan**: sanjaykannan389@gmail.com
